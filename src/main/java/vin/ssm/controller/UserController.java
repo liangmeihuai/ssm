@@ -32,6 +32,8 @@ public class UserController {
 		//user.getId().intValue();// 参数自动注入
 		int userId =1; //Integer.parseInt(request.getParameter("id"));
 		//jjjjjj
+		
+		//not bad
 		user = this.userService.getUserById(userId);//
 		model.addAttribute("user", user);
 
