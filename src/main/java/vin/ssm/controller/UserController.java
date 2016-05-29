@@ -34,6 +34,8 @@ public class UserController {
 		//jjjjjj
 		
 		//not bad
+		
+		//ooooo
 		user = this.userService.getUserById(userId);//
 		model.addAttribute("user", user);
 
