@@ -1,4 +1,4 @@
 print('Hello W)
-print('22
+print2
 print('dewdw')
 
