@@ -34,7 +34,7 @@ public class UserController {
 		//jjjjjj
 		user = this.userService.getUserById(userId);//
 		model.addAttribute("user", user);
-		//kkkkkk
+
 		return "user/showUser";
 	}
 
